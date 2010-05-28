@@ -36,8 +36,6 @@ PRODUCT_MANUFACTURER := HTC
 
 TARGET_BUILD_TYPE := release
 
-BUILD_ID := EPE54B
-BUILD_DISPLAY_ID := EPE54B
 BUILD_FINGERPRINT := google/passion/passion/mahimahi:2.1-update1/ERE27/24178:user/release-keys
 PRIVATE_BUILD_DESC := "hero-user 2.1-update1 ERE27 24178 release-keys"
 

@@ -25,7 +25,7 @@ $(call inherit-product, vendor/aosp/products/aosp_eu.mk)
 # build/target/product.core.mk
 PRODUCT_POLICY := android.policy_phone
 
-PRODUCT_PACKAGES = \
+PRODUCT_PACKAGES := \
     framework-res \
     Browser \
     Contacts \
